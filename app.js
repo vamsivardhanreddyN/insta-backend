@@ -17,9 +17,9 @@ app.use(fileupload({
 }))
 
 cloudinary.config({
-    cloud_name: "dnlhicn6d",
-    api_key: "992276966466312", 
-    api_secret: "9HNO3rIQiKX9qM6ZCAOCjLcniL0",
+    cloud_name: "dhiov6vmx",
+    api_key: "259167377774776", 
+    api_secret: "OGGBLetgTEfhNnWYh74aE44TZkc",
     secure: true
 }) 
 
