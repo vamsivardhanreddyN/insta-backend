@@ -1,5 +1,5 @@
 const mongoose =require("mongoose");
-mongoose.connect("mongodb+srv://sona:123654@cluster0.pzm5nfr.mongodb.net/?retryWrites=true&w=majority")
+mongoose.connect("mongodb+srv://root:Vamsi07@cluster0.fwak4fo.mongodb.net/test")
 .then(() => {
          console.log("connection successful")
      }).catch((err) => {
